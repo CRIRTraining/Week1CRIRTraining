@@ -135,6 +135,12 @@ summary(data.frameNames)
 describe(data.frameNames)
 describe.factor(genderWords) 
 ```
+Also, to better understand the packages you can use the help function
+```{r}
+help("summary")
+```
+
+
 Homework: Find a data set that you have access to (let Matt know if you need a data set) and get means and sds for the continuous variables (or all of them).  Also if possible get counts and percentages for one categorical variable.
 
 
